@@ -8,4 +8,4 @@ Probably works for both Jasminejs 2.0 and 1.3 as both forms are written. Only 1.
 **toBeKoObservable:** verify if parameter is an knockout observable
 
 # License
-KOX_Morf is Copyright © 2013 Curtis M. Humphrey and is licensed under the terms of the MIT License.
+Copyright © 2014 Curtis M. Humphrey and is licensed under the terms of the MIT License.
